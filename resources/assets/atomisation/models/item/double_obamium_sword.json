@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "atomisation:item/double_obamium_sword"
+  }
+}
