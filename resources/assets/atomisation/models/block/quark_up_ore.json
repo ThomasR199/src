@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "atomisation:block/quark_up_ore"
+  }
+}

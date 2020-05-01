@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "block/crafting_table_front",
+    "down": "atomisation:block/fusionner_bottom",
+    "up": "atomisation:block/fusionner_top",
+    "north": "atomisation:block/fusionner_side",
+    "east": "atomisation:block/fusionner_side",
+    "south": "atomisation:block/fusionner_side",
+    "west": "atomisation:block/fusionner_side"
+  }
+}
